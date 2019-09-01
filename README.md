@@ -1,4 +1,4 @@
-# BERT-Sentence-Segmenter
+# Text2DataBERT
 This is a quick and easy to run script for converting full paragraphs to single sentences. Sentences segment at punctuation marks.
 
 # Getting Started
